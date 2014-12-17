@@ -1,0 +1,12 @@
+introductions
+
+teaser - building bots with bots
+
+our robot fabricator: fused deposition modeler (reprap [makerbot fork])
+our software: parametric solid modeler (freecad [solidworksish clone])
+our project: ring
+
+*** parametric solid modeler lets us create a series of 2d sketches showing
+    constraints to generate 3d geometry
+- ring constraints
+- fdm constraints
