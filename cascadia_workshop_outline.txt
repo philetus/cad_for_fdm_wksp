@@ -10,3 +10,67 @@ our project: ring
     constraints to generate 3d geometry
 - ring constraints
 - fdm constraints
+
+*** ring demo
+
+*** slicing & makerbot
+
+*** other fabrication technologies
+- subtractive
+ * 2d
+  > laser cutter (circuit board laser!)
+  > water jet cutter
+  > plasma cutter
+ * 3d
+  > cnc router/mill
+- additive
+ * 2d
+  > xy ink jet
+ * 3d
+  > bind pool of material
+    # stereolithography (uv cure resin)
+    # inkjet & powder
+    # laser sintering (eos printer -> spacex engine) (sls nylon)
+    # electron beam melting (titanium!)
+  > extrude material
+    # fdm (multimaterial fdm)
+    # wax
+    # ceramic
+    # concrete
+  > place & bind
+    # polyjet inkjet & uv-cure
+    # electron beam freeform fabrication (wire welder in vacuum)
+- assembly
+  > pick & place
+- modular robotics
+  
+*** other cad technologies
+- mesh modeling (sketchup)
+- nurbs animation (maya & blender)
+- solid modeling (boolean) (openscad)
+- parametric solid modeling (with history) (solidworks, catia, inventor)
+- cam (pro-engineer, fusion 360, meshmixer)
+- finite element analysis
+- printed circuit board design (kicad, upverter, altium)
+
+*** my research
+- posey
+- prismatic cubes
+
+*** example robots & mechanisms
+- bike brake light
+- tetradie
+- kossel
+- making things interactive
+  * projects
+    > finite state machines
+    > musical instruments
+    > chair sensors & visualization (bush school)
+  * final projects
+    > touchless cupboard
+    > weight sensing bag
+
+*** brainstorming pedagogical applications
+  
+  
+
