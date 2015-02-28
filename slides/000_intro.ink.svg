@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,40 +77,45 @@
          id="tspan3879"
          x="291.1994"
          y="202.32227"
-         style="font-size:30px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">fabricating robots with robots</tspan><tspan
+         style="font-size:32px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">3d modeling for 3d printing</tspan><tspan
          sodipodi:role="line"
          x="291.1994"
-         y="239.82227"
+         y="238.33527"
+         style="font-size:28px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+         id="tspan2994">(fabricating robots with robots)</tspan><tspan
+         sodipodi:role="line"
+         x="291.1994"
+         y="273.33527"
          style="font-size:32px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
          id="tspan3044" /><tspan
          sodipodi:role="line"
          x="291.1994"
-         y="271.34177"
+         y="304.34827"
          style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans"
          id="tspan3028">michael philetus weller</tspan><tspan
          sodipodi:role="line"
          x="291.1994"
-         y="301.34177"
+         y="334.34827"
          style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans"
          id="tspan3036">philetus@gmail.com</tspan><tspan
          sodipodi:role="line"
          x="291.1994"
-         y="331.3418"
+         y="364.34827"
          style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans"
          id="tspan3038" /><tspan
          sodipodi:role="line"
          x="291.1994"
-         y="361.3418"
+         y="394.34827"
          style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans"
          id="tspan3040" /><tspan
          sodipodi:role="line"
          x="291.1994"
-         y="391.3418"
+         y="424.34827"
          style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans"
          id="tspan3030" /><tspan
          sodipodi:role="line"
          x="291.1994"
-         y="421.3418"
+         y="454.34827"
          style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans"
          id="tspan3032" /></text>
     <text
